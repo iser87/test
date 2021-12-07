@@ -21,18 +21,18 @@
 // }
 // console.log(human.hello());
 
-// let arr = [1, 5, 2, 25, 16, 14, 49, 3, 1, 7];
-// // arr.sort(function(a, b) {
-// //     // if (a==b) return 0 
-// //     // if (a>b) return 1
-// //     // if (a<b) return -1
+let arr = [1, 5, 2, 25, 16, 14, 49, 3, 1, 7];
+// arr.sort(function(a, b) {
+//     // if (a==b) return 0 
+//     // if (a>b) return 1
+//     // if (a<b) return -1
 
-// //     return a-b
-// // })
+//     return a-b
+// })
 
-// arr.sort((a,b) => a - b);
+arr.sort((a,b) => a - b);
 
-// console.log(arr);
+console.log(arr);
 
 
 
