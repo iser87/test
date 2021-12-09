@@ -41,7 +41,7 @@ console.log(arr);
 
 let user = {
     name: 'Sergey',
-    age: 20,
+age: 20,
 }
 
 
